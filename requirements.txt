@@ -1,6 +1,4 @@
-```text
 streamlit
 opencv-python
 numpy
 Pillow
-```
